@@ -1,4 +1,3 @@
-# ELEVATOR_CONTROL
-![image](https://github.com/RESMIRNAIR/ELEVATOR_CONTROL/assets/154305926/6379ab0d-b73f-4740-bdda-45263b28f120)
-# STATE DIAGRAM
-![image](https://github.com/RESMIRNAIR/ELEVATOR_CONTROL/assets/154305926/b42a1942-752f-4787-967c-b9c13ab3e763)
+# CLOCK WITH ALARM
+![image](https://github.com/user-attachments/assets/b03aab1d-4ac1-46ee-98fb-3ec40149f5fe)
+
